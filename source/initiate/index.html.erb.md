@@ -23,7 +23,7 @@ Find out what accessibility is and why it is important.
 
 The better you and your colleagues understand accessibility, the more effectively it can be implemented and promoted in your organization. Deepening your understanding of web accessibility helps you to address issues more effectively. Some sources for learning the basics include:
  
-*	Research introductory articles and videos
+*	Research and read introductory articles and videos
 *	Talk with colleagues, friends, and family members with disabilities
 *	Find training appropriate for your particular role
 * Seek information or training from accessibility and disability organizations
